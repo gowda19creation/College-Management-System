@@ -19,7 +19,13 @@ A desktop application developed using **C# Windows Forms** and **SQL Server** to
 - Visual Studio
 
 ## 📸 Screenshots
-Screenshots will be added soon.
+### 🔐 Login
+### 🏠 Dashboard
+### 👨‍🎓 Student Management
+### 👨‍🏫 Teacher Management
+### 💰 Fee Management
+### 📊 Report
+
 
 ## 🚀 How to Run
 1. Download or clone this repository.
